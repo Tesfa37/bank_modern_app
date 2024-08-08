@@ -2,7 +2,7 @@
 
 ### [Live Site](https://tesfa37.github.io/bank_modern_app/)
 
-![HooBank](https://github.com/Tesfa37/bank_modern_app/assets/hoobank-screenshot.png)
+![HooBank](https://github.com/Tesfa37/bank_modern_app/blob/main/src/assets/hoobank-screenshot.png)
 
 ## Introduction
 This project is a modern UI/UX website for a fictional bank called HooBank. The design focuses on providing a visually appealing and user-friendly experience for banking customers.
